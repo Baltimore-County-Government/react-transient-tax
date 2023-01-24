@@ -12346,9 +12346,9 @@ ua-parser-js@^0.7.18:
   version "0.7.21"
   resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.21.tgz#853cf9ce93f642f67174273cc34565ae6f308777"
 
-ua-parser-js@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-1.0.1.tgz#268408f4d60375e67aa919fa7d117bdc66d5cd77"
+ua-parser-js@^1.0.33:
+  version "1.0.33"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-1.0.33.tgz#f21f01233e90e7ed0f059ceab46eb190ff17f8f4"
 
 uglify-js@^3.1.4:
   version "3.14.2"
